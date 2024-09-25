@@ -1,0 +1,9 @@
+D:/QTProject/qtproject/build/CMakeFiles/qtproject.dir
+D:/QTProject/qtproject/build/CMakeFiles/edit_cache.dir
+D:/QTProject/qtproject/build/CMakeFiles/rebuild_cache.dir
+D:/QTProject/qtproject/build/CMakeFiles/list_install_components.dir
+D:/QTProject/qtproject/build/CMakeFiles/install.dir
+D:/QTProject/qtproject/build/CMakeFiles/install/local.dir
+D:/QTProject/qtproject/build/CMakeFiles/install/strip.dir
+D:/QTProject/qtproject/build/CMakeFiles/qtproject_autogen_timestamp_deps.dir
+D:/QTProject/qtproject/build/CMakeFiles/qtproject_autogen.dir
