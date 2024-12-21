@@ -1,20 +1,20 @@
 [
 {
-  "directory": "D:/QTProject/qtproject/build",
-  "command": "D:\\MINGW\\mingw64\\bin\\g++.exe -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB @CMakeFiles/qtproject.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\qtproject.dir\\qtproject_autogen\\mocs_compilation.cpp.obj -c D:\\QTProject\\qtproject\\build\\qtproject_autogen\\mocs_compilation.cpp",
-  "file": "D:/QTProject/qtproject/build/qtproject_autogen/mocs_compilation.cpp",
+  "directory": "C:/Users/Tyd/Desktop/QT-master/QT/build",
+  "command": "D:\\mingw64\\bin\\g++.exe -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NEEDS_QMAIN -DQT_WIDGETS_LIB -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64 @CMakeFiles/qtproject.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\qtproject.dir\\qtproject_autogen\\mocs_compilation.cpp.obj -c C:\\Users\\Tyd\\Desktop\\QT-master\\QT\\build\\qtproject_autogen\\mocs_compilation.cpp",
+  "file": "C:/Users/Tyd/Desktop/QT-master/QT/build/qtproject_autogen/mocs_compilation.cpp",
   "output": "CMakeFiles/qtproject.dir/qtproject_autogen/mocs_compilation.cpp.obj"
 },
 {
-  "directory": "D:/QTProject/qtproject/build",
-  "command": "D:\\MINGW\\mingw64\\bin\\g++.exe -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB @CMakeFiles/qtproject.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\qtproject.dir\\user\\main.cpp.obj -c D:\\QTProject\\qtproject\\user\\main.cpp",
-  "file": "D:/QTProject/qtproject/user/main.cpp",
+  "directory": "C:/Users/Tyd/Desktop/QT-master/QT/build",
+  "command": "D:\\mingw64\\bin\\g++.exe -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NEEDS_QMAIN -DQT_WIDGETS_LIB -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64 @CMakeFiles/qtproject.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\qtproject.dir\\user\\main.cpp.obj -c C:\\Users\\Tyd\\Desktop\\QT-master\\QT\\user\\main.cpp",
+  "file": "C:/Users/Tyd/Desktop/QT-master/QT/user/main.cpp",
   "output": "CMakeFiles/qtproject.dir/user/main.cpp.obj"
 },
 {
-  "directory": "D:/QTProject/qtproject/build",
-  "command": "D:\\MINGW\\mingw64\\bin\\g++.exe -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB @CMakeFiles/qtproject.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\qtproject.dir\\window\\mainwindow.cpp.obj -c D:\\QTProject\\qtproject\\window\\mainwindow.cpp",
-  "file": "D:/QTProject/qtproject/window/mainwindow.cpp",
+  "directory": "C:/Users/Tyd/Desktop/QT-master/QT/build",
+  "command": "D:\\mingw64\\bin\\g++.exe -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NEEDS_QMAIN -DQT_WIDGETS_LIB -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64 @CMakeFiles/qtproject.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\qtproject.dir\\window\\mainwindow.cpp.obj -c C:\\Users\\Tyd\\Desktop\\QT-master\\QT\\window\\mainwindow.cpp",
+  "file": "C:/Users/Tyd/Desktop/QT-master/QT/window/mainwindow.cpp",
   "output": "CMakeFiles/qtproject.dir/window/mainwindow.cpp.obj"
 }
 ]

@@ -10,7 +10,7 @@
 					"jsonFile" : "directory-.-Debug-cbb7acf91532aaf5e02b.json",
 					"minimumCMakeVersion" : 
 					{
-						"string" : "3.5"
+						"string" : "3.16"
 					},
 					"projectIndex" : 0,
 					"source" : ".",
@@ -44,7 +44,7 @@
 				{
 					"directoryIndex" : 0,
 					"id" : "qtproject::@6890427a1f51a3e7e1df",
-					"jsonFile" : "target-qtproject-Debug-26dd2d7b8f2cc43f3106.json",
+					"jsonFile" : "target-qtproject-Debug-d795f56da900032509c0.json",
 					"name" : "qtproject",
 					"projectIndex" : 0
 				},
@@ -68,8 +68,8 @@
 	"kind" : "codemodel",
 	"paths" : 
 	{
-		"build" : "D:/QTProject/qtproject/build",
-		"source" : "D:/QTProject/qtproject"
+		"build" : "C:/Users/Tyd/Desktop/QT-master/QT/build",
+		"source" : "C:/Users/Tyd/Desktop/QT-master/QT"
 	},
 	"version" : 
 	{

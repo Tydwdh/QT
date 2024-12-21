@@ -52,10 +52,10 @@ RM = D:\QT\Tools\CMake_64\bin\cmake.exe -E rm -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = D:\QTProject\qtproject
+CMAKE_SOURCE_DIR = C:\Users\Tyd\Desktop\QT-master\QT
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = D:\QTProject\qtproject\build
+CMAKE_BINARY_DIR = C:\Users\Tyd\Desktop\QT-master\QT\build
 
 # Utility rule file for qtproject_autogen.
 
@@ -67,12 +67,12 @@ include CMakeFiles/qtproject_autogen.dir/progress.make
 
 CMakeFiles/qtproject_autogen: qtproject_autogen/timestamp
 
-qtproject_autogen/timestamp: D:/QT/5.15.2/mingw81_64/bin/moc.exe
-qtproject_autogen/timestamp: D:/QT/5.15.2/mingw81_64/bin/uic.exe
+qtproject_autogen/timestamp: D:/QT/6.7.2/mingw_64/./bin/moc.exe
+qtproject_autogen/timestamp: D:/QT/6.7.2/mingw_64/./bin/uic.exe
 qtproject_autogen/timestamp: CMakeFiles/qtproject_autogen.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --blue --bold --progress-dir=D:\QTProject\qtproject\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Automatic MOC and UIC for target qtproject"
-	D:\QT\Tools\CMake_64\bin\cmake.exe -E cmake_autogen D:/QTProject/qtproject/build/CMakeFiles/qtproject_autogen.dir/AutogenInfo.json Debug
-	D:\QT\Tools\CMake_64\bin\cmake.exe -E touch D:/QTProject/qtproject/build/qtproject_autogen/timestamp
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --blue --bold --progress-dir=C:\Users\Tyd\Desktop\QT-master\QT\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Automatic MOC and UIC for target qtproject"
+	D:\QT\Tools\CMake_64\bin\cmake.exe -E cmake_autogen C:/Users/Tyd/Desktop/QT-master/QT/build/CMakeFiles/qtproject_autogen.dir/AutogenInfo.json Debug
+	D:\QT\Tools\CMake_64\bin\cmake.exe -E touch C:/Users/Tyd/Desktop/QT-master/QT/build/qtproject_autogen/timestamp
 
 qtproject_autogen: CMakeFiles/qtproject_autogen
 qtproject_autogen: qtproject_autogen/timestamp
@@ -88,6 +88,6 @@ CMakeFiles/qtproject_autogen.dir/clean:
 .PHONY : CMakeFiles/qtproject_autogen.dir/clean
 
 CMakeFiles/qtproject_autogen.dir/depend:
-	$(CMAKE_COMMAND) -E cmake_depends "MinGW Makefiles" D:\QTProject\qtproject D:\QTProject\qtproject D:\QTProject\qtproject\build D:\QTProject\qtproject\build D:\QTProject\qtproject\build\CMakeFiles\qtproject_autogen.dir\DependInfo.cmake "--color=$(COLOR)"
+	$(CMAKE_COMMAND) -E cmake_depends "MinGW Makefiles" C:\Users\Tyd\Desktop\QT-master\QT C:\Users\Tyd\Desktop\QT-master\QT C:\Users\Tyd\Desktop\QT-master\QT\build C:\Users\Tyd\Desktop\QT-master\QT\build C:\Users\Tyd\Desktop\QT-master\QT\build\CMakeFiles\qtproject_autogen.dir\DependInfo.cmake "--color=$(COLOR)"
 .PHONY : CMakeFiles/qtproject_autogen.dir/depend
 

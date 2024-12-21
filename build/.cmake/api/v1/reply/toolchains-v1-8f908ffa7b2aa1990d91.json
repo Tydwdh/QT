@@ -10,19 +10,19 @@
 				{
 					"includeDirectories" : 
 					[
-						"D:/MINGW/mingw64/lib/gcc/x86_64-w64-mingw32/13.2.0/include/c++",
-						"D:/MINGW/mingw64/lib/gcc/x86_64-w64-mingw32/13.2.0/include/c++/x86_64-w64-mingw32",
-						"D:/MINGW/mingw64/lib/gcc/x86_64-w64-mingw32/13.2.0/include/c++/backward",
-						"D:/MINGW/mingw64/lib/gcc/x86_64-w64-mingw32/13.2.0/include",
-						"D:/MINGW/mingw64/lib/gcc/x86_64-w64-mingw32/13.2.0/include-fixed",
-						"D:/MINGW/mingw64/x86_64-w64-mingw32/include"
+						"D:/mingw64/lib/gcc/x86_64-w64-mingw32/14.2.0/include/c++",
+						"D:/mingw64/lib/gcc/x86_64-w64-mingw32/14.2.0/include/c++/x86_64-w64-mingw32",
+						"D:/mingw64/lib/gcc/x86_64-w64-mingw32/14.2.0/include/c++/backward",
+						"D:/mingw64/lib/gcc/x86_64-w64-mingw32/14.2.0/include",
+						"D:/mingw64/lib/gcc/x86_64-w64-mingw32/14.2.0/include-fixed",
+						"D:/mingw64/x86_64-w64-mingw32/include"
 					],
 					"linkDirectories" : 
 					[
-						"D:/MINGW/mingw64/lib/gcc/x86_64-w64-mingw32/13.2.0",
-						"D:/MINGW/mingw64/lib/gcc",
-						"D:/MINGW/mingw64/x86_64-w64-mingw32/lib",
-						"D:/MINGW/mingw64/lib"
+						"D:/mingw64/lib/gcc/x86_64-w64-mingw32/14.2.0",
+						"D:/mingw64/lib/gcc",
+						"D:/mingw64/x86_64-w64-mingw32/lib",
+						"D:/mingw64/lib"
 					],
 					"linkFrameworkDirectories" : [],
 					"linkLibraries" : 
@@ -31,12 +31,9 @@
 						"mingw32",
 						"gcc_s",
 						"gcc",
-						"moldname",
 						"mingwex",
 						"kernel32",
-						"mcfgthread",
-						"kernel32",
-						"ntdll",
+						"pthread",
 						"advapi32",
 						"shell32",
 						"user32",
@@ -45,16 +42,12 @@
 						"mingw32",
 						"gcc_s",
 						"gcc",
-						"moldname",
 						"mingwex",
-						"kernel32",
-						"mcfgthread",
-						"kernel32",
-						"ntdll"
+						"kernel32"
 					]
 				},
-				"path" : "D:/MINGW/mingw64/bin/g++.exe",
-				"version" : "13.2.0"
+				"path" : "D:/mingw64/bin/g++.exe",
+				"version" : "14.2.0"
 			},
 			"language" : "CXX",
 			"sourceFileExtensions" : 
@@ -80,7 +73,7 @@
 			"compiler" : 
 			{
 				"implicit" : {},
-				"path" : "D:/MINGW/mingw64/bin/windres.exe"
+				"path" : "D:/mingw64/bin/windres.exe"
 			},
 			"language" : "RC",
 			"sourceFileExtensions" : 

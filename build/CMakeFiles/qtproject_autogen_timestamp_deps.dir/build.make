@@ -52,10 +52,10 @@ RM = D:\QT\Tools\CMake_64\bin\cmake.exe -E rm -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = D:\QTProject\qtproject
+CMAKE_SOURCE_DIR = C:\Users\Tyd\Desktop\QT-master\QT
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = D:\QTProject\qtproject\build
+CMAKE_BINARY_DIR = C:\Users\Tyd\Desktop\QT-master\QT\build
 
 # Utility rule file for qtproject_autogen_timestamp_deps.
 
@@ -77,6 +77,6 @@ CMakeFiles/qtproject_autogen_timestamp_deps.dir/clean:
 .PHONY : CMakeFiles/qtproject_autogen_timestamp_deps.dir/clean
 
 CMakeFiles/qtproject_autogen_timestamp_deps.dir/depend:
-	$(CMAKE_COMMAND) -E cmake_depends "MinGW Makefiles" D:\QTProject\qtproject D:\QTProject\qtproject D:\QTProject\qtproject\build D:\QTProject\qtproject\build D:\QTProject\qtproject\build\CMakeFiles\qtproject_autogen_timestamp_deps.dir\DependInfo.cmake "--color=$(COLOR)"
+	$(CMAKE_COMMAND) -E cmake_depends "MinGW Makefiles" C:\Users\Tyd\Desktop\QT-master\QT C:\Users\Tyd\Desktop\QT-master\QT C:\Users\Tyd\Desktop\QT-master\QT\build C:\Users\Tyd\Desktop\QT-master\QT\build C:\Users\Tyd\Desktop\QT-master\QT\build\CMakeFiles\qtproject_autogen_timestamp_deps.dir\DependInfo.cmake "--color=$(COLOR)"
 .PHONY : CMakeFiles/qtproject_autogen_timestamp_deps.dir/depend
 
